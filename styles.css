@@ -1,0 +1,13 @@
+body{
+    background-color: rgba(0, 0, 0, 0.431);
+    color: black;
+}
+
+#Pic{
+    border-radius: 50%;
+}
+
+footer{
+    background-color: rgb(198, 42, 254);
+    height: 40px;
+}
